@@ -1,4 +1,4 @@
-name = "cloudflare-docker-proxy"
+name = 'x-docker-hub'
 compatibility_date = "2023-12-01"
 
 [dev]
